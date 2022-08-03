@@ -1,0 +1,7 @@
+"{\"x1\": 1440, \"y1\": 720, \"coord\": [1440, 720, 1446, 726], \"ime\": \"Polaris\", \"dist\": 432, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1490, \"y1\": 680, \"coord\": [1490, 680, 1494, 684], \"ime\": \"Yildun\", \"dist\": 172, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1540, \"y1\": 620, \"coord\": [1540, 620, 1544, 624], \"ime\": \"Circirtores\", \"dist\": 303, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1535, \"y1\": 560, \"coord\": [1535, 560, 1539, 564], \"ime\": \"Zeta Ursa Minoris\", \"dist\": 368, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1480, \"y1\": 500, \"coord\": [1480, 500, 1486, 506], \"ime\": \"Kochab\", \"dist\": 130, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1590, \"y1\": 540, \"coord\": [1590, 540, 1593, 543], \"ime\": \"Eta Ursa Minoris\", \"dist\": 97, \"constel\": \"Ursa Minor\"}\n"
+"{\"x1\": 1538, \"y1\": 465, \"coord\": [1538, 465, 1543, 470], \"ime\": \"Pherkad\", \"dist\": 486, \"constel\": \"Ursa Minor\"}\n"
